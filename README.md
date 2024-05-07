@@ -1,4 +1,4 @@
-### Hi there 👋 - [carpe diem](https://github.com/Zweihorn/Zweihorn_fascicle/blob/main/README.md) 😎
+### Hi there 👋 - [carpe diem](https://github.com/Zweihorn/Zweihorn_fascicle/blob/main/README.md#also-latin-la) 😎
 
 * EN - Please note my [Maintainer & Copyright Notice](MAINTAINER.md).
 * DE - Bitte beachten Sie meinen [Bearbeiter- und Urheberrechtshinweis](BEARBEITER.md).
@@ -15,6 +15,16 @@ heilig halte die Ekstasen!
 ```
 
 _aus: Galgenlieder, von [Christian Morgenstern](https://github.com/Zweihorn/Zweihorn_fascicle/blob/main/README.md#mein-motto-de)_
+
+#### European Commitment
+
+🇺🇦 🇩🇪 🇪🇺
+
+"The EU stands united with Ukraine" - <https://eu-solidarity-ukraine.ec.europa.eu/index_en>
+
+Слава Україні - Slava Ukraini! - "Glory to Ukraine!" - <https://en.wikipedia.org/wiki/Slava_Ukraini>
+
+The [Sakharov Prize for Freedom of Thought](https://en.wikipedia.org/wiki/Sakharov_Prize) is an honorary award for individuals or groups who have dedicated their lives to the defence of human rights and freedom of thought, the prize was established in December 1988 by the [European Parliament](https://www.europarl.europa.eu/portal/en). 
 
 #### My Commitment & Open Source Endeavour
 
