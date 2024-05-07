@@ -1,5 +1,7 @@
 ### Hi there 👋 - [carpe diem](https://github.com/Zweihorn/Zweihorn_fascicle/blob/main/README.md#carpe-diem-is-also-latin-la) 😎
 
+Welcome and please consider visiting the [Zweihorn wiki](https://github.com/Zweihorn/Zweihorn/wiki) also at GitHub.
+
 * EN - Please note my [Maintainer & Copyright Notice](MAINTAINER.md).
 * DE - Bitte beachten Sie meinen [Bearbeiter- und Urheberrechtshinweis](BEARBEITER.md).
 
