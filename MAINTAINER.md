@@ -16,7 +16,7 @@ NOTE: The same information in German at [File: BEARBEITER.md](BEARBEITER.md).
         Licensed under the EUPL
 
 My Work and Distribution might derive from original Open Source
-Endevour like F/OSS Project(s) and their PR commits respectively.
+Endeavour like F/OSS Project(s) and their PR commits respectively.
 
 
 ### Disclaimer
