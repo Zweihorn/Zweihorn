@@ -28,6 +28,8 @@ _aus: Galgenlieder, von [Christian Morgenstern](https://github.com/Zweihorn/Zwei
 
 The [Sakharov Prize for Freedom of Thought](https://en.wikipedia.org/wiki/Sakharov_Prize) is an honorary award for individuals or groups who have dedicated their lives to the defence of human rights and freedom of thought, the prize was established in December 1988 by the [European Parliament](https://www.europarl.europa.eu/portal/en). 
 
+On 9 May is [European Day](https://europeday.europa.eu/index_en) in commemoration of the [1950 Schuman Declaration](https://en.wikipedia.org/wiki/Schuman_Declaration) and this day is celebrated by the [European Union](https://en.wikipedia.org/wiki/European_Union).
+
 #### My Commitment & Open Source Endeavour
 
 NOTE: I may be slow to respond. My sincere apologies as I have my life outside GitHub.
